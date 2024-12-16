@@ -1,0 +1,64 @@
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\bin\Debug\BookShop.accdb
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\bin\Debug\Books Shop.exe.config
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\bin\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\bin\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\Books Shop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Billing.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Books.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\project.Users.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\Books Shop.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\Books Shop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\VP Project - Copy\project\obj\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\bin\Debug\BookShop.accdb
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\bin\Debug\Books Shop.exe.config
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\bin\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\bin\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\Books Shop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Billing.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Books.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\project.Users.resources
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\Books Shop.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\Books Shop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\VP Project\project\obj\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\bin\Debug\BookShop.accdb
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\bin\Debug\Books Shop.exe.config
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\bin\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\bin\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Billing.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Books.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\project.Users.resources
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\Visual apps\VP Project\project\obj\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\bin\Debug\BookShop.accdb
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\bin\Debug\Books Shop.exe.config
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\bin\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\bin\Debug\Books Shop.pdb
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.AdminLogin.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Billing.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Books.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Dashboard.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\project.Users.resources
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\Books Shop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\Books Shop.exe
+C:\Users\Asus\OneDrive\Desktop\3\1\Visual Programming\Visual apps\VP Project\project\obj\Debug\Books Shop.pdb
